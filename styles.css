@@ -99,6 +99,17 @@ main {
     margin-bottom: 10px;
 }
 
+.response-chance {
+    font-size: 1rem;
+    color: #fff;
+    margin: 10px 0;
+}
+
+.response-chance span {
+    font-weight: bold;
+    color: #00ff00; /* Verde neon para destacar a porcentagem */
+}
+
 .contact-button {
     display: inline-block;
     background-color: #0094cc; /* Azul neon mais escuro */
